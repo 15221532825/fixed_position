@@ -1,0 +1,6 @@
+framework module Pods_FixedPosition_FixedPositionUITests {
+  umbrella header "Pods-FixedPosition-FixedPositionUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
